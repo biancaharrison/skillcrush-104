@@ -7780,12 +7780,21 @@ font-size: 20px;
   text-decoration: none;
   color: #fff;
   border-bottom: 1px solid #f1c40f;
+<<<<<<< HEAD
 }
 
 .jenn-advice a:hover {
   color: #f1c40f;
 }
 
+=======
+}
+
+.jenn-advice a:hover {
+  color: #f1c40f;
+}
+
+>>>>>>> upstream/master
 .jenn-advice header > a {
   text-transform: uppercase;
   font-size: 0.6em;
